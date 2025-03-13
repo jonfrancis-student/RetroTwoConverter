@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+# RetroTwoConverter 123 Test
+=======
 # RetroTwoConverter Test 12345678
+>>>>>>> 18a9748865d5f7759a2089e6f54530d72c2a8b4f
 
 This is a web-based application built using **ASP.NET Core MVC** with a **C#** backend and **HTML**, **CSS**, **JavaScript**, and **Bootstrap** for the frontend. The application allows users to convert between different units of measurement, such as temperature, length, and weight, from Metric to Imperial systems and vice versa.
 
@@ -7,6 +11,7 @@ This is a web-based application built using **ASP.NET Core MVC** with a **C#** b
 - Real-time unit conversion
   - Convert between kilometers and miles, Celsius and Fahrenheit, kilograms and pounds, and more.
 - User-friendly interface with input fields and dropdowns.
+- Artificial Intelligence integration
 - Built using **Bootstrap** for a responsive design.
 - **Error handling** for invalid input.
 
