@@ -7,6 +7,7 @@ This is a web-based application built using **ASP.NET Core MVC** with a **C#** b
 - Real-time unit conversion
   - Convert between kilometers and miles, Celsius and Fahrenheit, kilograms and pounds, and more.
 - User-friendly interface with input fields and dropdowns.
+- Artificial Intelligence integration
 - Built using **Bootstrap** for a responsive design.
 - **Error handling** for invalid input.
 
